@@ -30,6 +30,10 @@ PostCSS supports CSS Modules through the plugin `postcss-modules`. [Learn more](
 
 Rspack supports CSS Modules. [Learn more](https://www.rspack.dev/guide/language-support#css-modules).
 
+### TypeScript
+
+TypeScript 7.1 and greater support CSS modules through `css-modules-content-mapper`. [Learn more](https://github.com/remcohaszing/css-modules-content-mapper).
+
 ### Webpack
 
 The [css-loader](https://github.com/webpack/css-loader) has CSS Modules built-in. Simply activate it by using the `?modules` flag. We maintain an example project using this at [css-modules/webpack-demo](https://css-modules.github.io/webpack-demo/).
